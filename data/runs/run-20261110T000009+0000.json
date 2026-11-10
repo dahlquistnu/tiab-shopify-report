@@ -1,0 +1,40 @@
+{
+  "summary": {
+    "run_key": "run-20261110T000009+0000",
+    "run_id": "",
+    "run_number": "",
+    "run_attempt": "",
+    "workflow": "",
+    "repository": "",
+    "run_url": "",
+    "sha": "",
+    "ref_name": "",
+    "started_at": "2026-11-10T00:00:09+00:00",
+    "ended_at": "2026-11-10T01:15:07+00:00",
+    "duration_seconds": 4498,
+    "limit": null,
+    "use_test_api": false,
+    "skip_images": false,
+    "archive_removed": true,
+    "processed": 5413,
+    "created": 1,
+    "updated": 3942,
+    "updated_prices": 0,
+    "updated_costs": 1,
+    "missing_margin": 29,
+    "drafted_no_price": 0,
+    "archived_no_price": 0,
+    "archived_expired": 0,
+    "below_cost": 15,
+    "archived": 0,
+    "unarchived": 0,
+    "errors": 0,
+    "status": "success",
+    "fatal_error": ""
+  },
+  "actions": {
+    "updated": 3942,
+    "below_cost": 15,
+    "created": 1
+  }
+}
