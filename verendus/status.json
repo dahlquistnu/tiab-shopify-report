@@ -1,19 +1,19 @@
 {
   "kind": "orders",
-  "started_at": "2026-11-13T09:00:06+00:00",
-  "duration_seconds": 0.2,
+  "started_at": "2026-11-13T10:00:05+00:00",
+  "duration_seconds": 2.1,
   "status": "ok",
   "fatal_error": null,
   "legs": {
     "orders": {
-      "fetched": 0,
+      "fetched": 1,
       "synced": 0,
       "skipped": 0,
       "skipped_makulerad": 0,
       "skipped_test": 0,
       "skipped_tomma": 0,
       "behover_manuell": 0,
-      "vantar": 0,
+      "vantar": 1,
       "vantar_lange": 0,
       "upplosta": 0,
       "redan_i_verendus": 0,
