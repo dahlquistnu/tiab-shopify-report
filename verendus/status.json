@@ -1,13 +1,13 @@
 {
   "kind": "orders",
-  "started_at": "2026-11-17T19:00:07+00:00",
-  "duration_seconds": 5.9,
+  "started_at": "2026-11-17T20:00:07+00:00",
+  "duration_seconds": 3.9,
   "status": "ok",
   "fatal_error": null,
   "legs": {
     "orders": {
-      "fetched": 2,
-      "synced": 1,
+      "fetched": 1,
+      "synced": 0,
       "skipped": 0,
       "skipped_makulerad": 0,
       "skipped_test": 0,
